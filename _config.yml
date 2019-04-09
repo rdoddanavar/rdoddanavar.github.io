@@ -1,5 +1,2 @@
 # General Jekyll Config
-name: Roshan Doddanavar
-description: Personal Webpage & Project Portfolio
-url: "https://rdoddanavar.github.io/"
 theme: jekyll-theme-minimal
