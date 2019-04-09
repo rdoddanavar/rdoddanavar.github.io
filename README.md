@@ -16,9 +16,9 @@ Raytheon Missile Systems
 ### Supporting Documents
 
 LinkedIn Page
- - 
+ - < >
 Resume
- - 
+ - < >
 
 ## Project Portfolio
 
