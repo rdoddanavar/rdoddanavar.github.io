@@ -1,23 +1,17 @@
-## Personal Information
+# Minimal Mistakes remote theme starter
 
- - [LinkedIn](https://www.linkedin.com/in/roshan-doddanavar-2202a7102)
- - [Resume](https://www.slideshare.net/slideshow/embed_code/key/DhiyPPiukrH4zd)
+Fork this repo for the quickest method of getting started with the Minimal Mistakes Jekyll theme.
 
-### Education
+Contains basic configuration to get you a site with:
 
-Texas A&M University (College Station, TX)
- - B.S. Aerospace Engineering '19
+- Sample posts.
+- Sample top navigation.
+- Sample author sidebar with social links.
+- Sample footer links.
+- Paginated home page.
+- Archive pages for posts grouped by year, category, and tag.
+- Sample about page.
+- Sample 404 page.
+- Site wide search.
 
-### Employment
-
-Raytheon Missile Systems (Tucson, AZ)
- - Intern (3 Years)
- - Systems Engineer I (Present)
-
-## Project Portfolio
-
-### TAMU Sounding Rocketry Team (SRT)
-
-### Personal Projects
-
-## Project Blog 
+Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
